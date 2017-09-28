@@ -1,0 +1,5 @@
+{
+    "url" : "https://amazon.in/",
+    "titlePrefix" : "buy",  // generic starting title text
+    "titlePostfix" : "- amazon" // generic ending title text
+}
